@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ruthprz
-- 👀 I’m interested in ...Tech Recruiting 🔎
+- 👋 Hi, I’m Ruth
+- 👀 I’m interested in ...Tech Recruiting 🔎 and Front-End
 - 🌱 I’m currently learning ...Front-End 🤓💻
 - 💞️ I’m looking to collaborate on ...Job opportunities
 - 📫 How to reach me ...https://www.linkedin.com/in/ruthperezduarte/
